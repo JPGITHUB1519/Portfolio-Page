@@ -1,0 +1,30 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.container
+{
+	width: 100%;
+
+}
+
+.row
+{
+	width : 100%;
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 15px;
+}
+
+.logo
+{
+	width : 50%;
+}
+
+.name-profession
+{
+	width : 50%;
+}
