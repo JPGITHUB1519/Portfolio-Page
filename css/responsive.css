@@ -1,0 +1,27 @@
+/* for tablets */
+@media only screen and (min-width: 600px)
+{
+	.work-column
+	{
+		width : 50%;
+	}
+	
+
+
+}
+
+/* For desktop: */
+@media only screen and (min-width: 960px) 
+{
+	.container
+	{
+		 max-width: 960px;
+		 margin-left: auto;
+		 margin-right: auto;
+	}
+	.work-column
+	{
+		width : 33.33%;
+	}
+
+}
